@@ -29,7 +29,7 @@ export default function Model({ onHover, onLeave, onToggle, isPointerLocked }) {
               onPointerEnter={handlePointerEnter}
               onPointerLeave={handlePointerLeave}
             >
-              <h1 className="text-4xl text-white">Catch me if you can!</h1>
+              <h1 className="text-4xl text-white">Catch'em all</h1>
               <p className="text-xl text-white mt-7 ">
                 A fun and interactive hunting game
               </p>
